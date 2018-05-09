@@ -1,0 +1,3 @@
+def count(word, letter):
+	for letter in word: 
+	
